@@ -1,1 +1,1 @@
-# Pokedex-DiffuseGen
+# Pokedex Generation - Stable Diffusion
