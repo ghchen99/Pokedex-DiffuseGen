@@ -1,1 +1,1 @@
-# Pokedex Generation - Stable Diffusion
+# Pokédex Generation - Stable Diffusion
